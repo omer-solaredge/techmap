@@ -1,0 +1,25 @@
+git checkout -b add-Final
+{
+  "name": "Final",
+  "description": "Since 2001, Final has taken a leading role in algorithmic trading, pioneering and championing High Frequency Trading based on math, physics, and advanced computer science.",
+  "categoryId": 3,
+  "size": "m",
+  "logoFile": "logos/final-logo.webp",
+  "websiteUrl": "https://www.final.co.il/",
+  "careersUrl": "https://www.final.co.il/career/",
+  "isHiring": true,
+  "linkedinId": "Final",
+  "finderId": "final-ltd",
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": "7",
+      "city": "הרצליה",
+      "lat": 32.16339199113932,
+      "lon": 34.80897200532469
+    }
+  ],
+  "comeetId": "Final",
+  "glassdoorId": "Final",
+  "isMultinational": false
+}
